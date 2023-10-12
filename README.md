@@ -1,5 +1,12 @@
 # LittleLemon
 
+## Notes
+
+Superuser:
+Username: admin
+Email address: admin@admin.com
+Password: admin123$
+
 ## >_ Commands
 
 ```bash
